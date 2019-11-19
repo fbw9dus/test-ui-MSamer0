@@ -19,7 +19,7 @@ Projekt für Test im UI Modul
 ![](drafts/desktop.JPG)
 ![](drafts/desktop-button-hover.JPG)
 
-###   43/60 Punkten
+###   44/60 Punkten
 #### Punktabzüge für:
 - [x] (10) Elemente passen sich nicht an Fensterbreite an
 ```diff
@@ -30,9 +30,9 @@ Projekt für Test im UI Modul
 - [_] (10) Tags nicht geschlossen oder falsch verschachtelt
 - [_] (5) Block-Tag in Inline-Tag
 - [_] (5) Kinder-Tags im Code nicht eingerückt
-- [x] (7) Zweckfremde Tags verwendet
+- [x] (6) Zweckfremde Tags verwendet
 ```diff
-- Die Bootstrap-Klassen werden falsch verwendet. .col muss in .row verwendet werden(Zeile 17). .container ist ein übergeordnetes Element und darf nicht in anderen Seitenelementen verschachtelt sein (Zeile 49)
+- Die Bootstrap-Klassen werden falsch verwendet. .container ist ein übergeordnetes Element und darf nicht in anderen Seitenelementen verschachtelt sein (Zeile 49)
 ```
 - [_] (10) Fehlende essetielle Tags (z.B. Meta-Tags)
 - [_] (5) Falsche Datei-Pfade
